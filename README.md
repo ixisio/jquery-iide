@@ -18,8 +18,7 @@ I'm also write a blog post soon about this, be patient.
     { 
         "right": 800,
         "top": 0
-    }, 5000 ]' 
-    style="width: 100px; height: 100px; background: blue; position: absolute; top: 0; right: 0">
+    }, 5000 ]'>
 </div>
 ```
 
