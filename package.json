@@ -1,0 +1,17 @@
+{
+    "name": "jquery-iide"
+  , "description": "Immediate–Invoked–Data–Expressions (IIDE) for jQuery Plugins & Methods"
+  , "version": "0.1.0"
+  , "keywords": ["jQuery", "data", "IIDE"]
+  , "author": "ixisio, Andreas Klein"
+  , "scripts": {
+      "test": "echo \"Error: no test specified\""
+  }
+  , "repository": {
+      "type": "git"
+    , "url": "https://github.com/ixisio/jquery-iide"
+  }
+  , "license": "MIT"
+  , "readmeFilename": "README.md"
+  , "devDependencies": { }
+}
